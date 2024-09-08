@@ -1,0 +1,4 @@
+repository "EVAs-Playground@Pleazza@cloud"
+  path "/"
+    br "/main"
+    co "/main"
